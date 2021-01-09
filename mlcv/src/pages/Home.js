@@ -4,11 +4,13 @@ import { Text } from '../components/Text';
 import { About } from './About';
 import { Resume } from './Resume';
 import { Contact } from './Contact';
+import { Works } from './Works';
 import '../styles/App.css'
 import '../styles/Contact.css'
 import '../styles/Home.css'
 import '../styles/About.css'
 import '../styles/Resume.css'
+import '../styles/Works.css'
 
 
 
@@ -40,6 +42,10 @@ class Home extends Component {
             
             <section id="resume_section">
             <Resume/>
+            </section>
+
+            <section id="works_section">
+            <Works/>
             </section>
 
             <section id="contact_section">

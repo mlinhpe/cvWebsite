@@ -1,0 +1,14 @@
+/* css for Works page */
+
+.Works {
+    width: auto;
+    align-content: center;
+    align-items: center;
+    background-color: transparent;
+    text-align: center;
+    padding-top: 1px;
+  }
+
+  .githubThumb {
+    margin-bottom: 200px;
+  }
