@@ -1,0 +1,66 @@
+/* css for contact page */
+
+.Contact {
+    width: 40%;
+    margin: auto;
+    padding-top: 5px;
+    padding-bottom: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  input[type=submit] {
+    background-color: rgb(117, 103, 241);
+    color: white;
+    padding: 10px 16px;
+    border: None;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-left: 588px;
+  }
+  
+  input[type=submit] hover {
+    background-color: rgb(28, 3, 87);
+  }
+  
+  .Input {
+    width: 75%;
+    height: 30px;
+    overflow: hidden;
+    background-color: rgb(231, 237, 250);
+    border: None;
+    font-size: 16px;
+    padding-top: 5px;
+    padding-left: 10px;
+    color: rgb(4, 31, 61);
+    border-radius: 4px;
+  }
+  
+  .Label {
+    width: 15%;
+    font-size: 20px;
+    float: left;
+    color: white;
+    text-align: left;
+    padding-right: 10px;
+  }
+  
+  .formSection {
+    padding: 15px;
+    width: auto;
+    text-align: left;
+  }
+  
+  .textarea {
+    height: 250px;
+    width: 75%;
+    overflow: hidden;
+    background-color: rgb(231, 237, 250);
+    border: None;
+    padding: 5px;
+    padding-left: 10px;
+    color: rgb(4, 31, 61);
+    font-size: 16px;
+    border-radius: 4px;
+    resize: none;
+  }

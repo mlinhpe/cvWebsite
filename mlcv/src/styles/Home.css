@@ -1,0 +1,69 @@
+/* css for Home page*/
+.cv {
+    background-color: #132038;
+    background-image: linear-gradient(#323896, #9697e0);
+    height: 100vh;
+    scroll-behavior: smooth;
+    position: relative;
+    overflow-y: scroll;
+    text-align: center;
+  }
+
+  .Home {
+    margin-top: 325px;
+  }
+  
+  .Header {
+    background-color: transparent;
+    margin-right: 50px;
+    width: auto;
+    position: fixed;
+    right: 0;
+  }
+  
+  .Tab {
+    font-size: 22px;
+    width: 110px;
+    float: left;
+    text-align: center;
+    color: #fcf9fc;
+    background-color: transparent;
+    border: None;
+    height: 50px;
+    margin-top: 15px;
+    font-weight: 100;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  .IntroText {
+    text-align: center;
+    font-size: 90px;
+    font-weight: 200;
+    color: #fdfbfd;
+    width: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: transparent;
+  }
+  
+  .DescriptionText {
+    font-size: 28px;
+    color: #dcecf8;
+    text-align: center;
+    width: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: transparent;
+  }
+  
+  .IntroTextField {
+    text-align: center;
+    width: auto;
+    background-color: transparent;
+  }
+  
+  .DescriptionTextField {
+    text-align: center;
+    margin-top: 20px;
+    width: auto;
+    background-color: transparent;
+    margin-bottom: 550px;
+  }
